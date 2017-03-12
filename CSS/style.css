@@ -1,0 +1,16 @@
+#rodzic {
+    position: relative;
+}
+
+#dziecko1 {
+    background-color: red;
+}
+
+#dziecko2 {
+    background-color: blue;
+    position: fixed;
+}
+
+#dziecko3 {
+    background-color: green;
+}
